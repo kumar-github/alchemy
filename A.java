@@ -1,3 +1,3 @@
 class A {
-  private int age;
+  private int hisAge;
 }
