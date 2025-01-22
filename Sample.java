@@ -1,1 +1,1 @@
-public class Sample {}
+public class sample {}
